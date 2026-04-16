@@ -1,7 +1,7 @@
 [
     {
         "Name": ["The Grand Scriptures of World Wonder Builinding"]
-        "IsNationalWonder": True,
+        "IsNationalWonder": "True",
         "Cost": 0,
         "Uniques": [
             "Limited to [1] per Civilization", "Unbuildable <for [AI player] Civilizations>",
