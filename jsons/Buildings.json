@@ -1,1 +1,10 @@
-
+[
+    {
+        "Name": ["The Grand Scriptures of World Wonder Builinding"]
+        "IsNationalWonder": True,
+        "Cost": 0,
+        "Uniques": [
+            "Limited to [1] per Civilization", "Unbuildable <for [AI player] Civilizations>",
+            "[100]% Production when Constructing [World Wonder] [In all Cities]", "[+1 Production, +1 Culture, +1 Science, +1 Faith] in every [World Wonder] in this City"]
+    }
+]
