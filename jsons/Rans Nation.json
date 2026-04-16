@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Rans Kingdom"
+        "leaderName": "Ransu"
+        "adjective": ["Ransu"]
+        "favoredReligion": "Christianity" 
+        "startBias": "Plains"
+        "preferredVictoryType": "Domination"
+        "startIntroPart1": "Greetings Bitch"
+        "startIntroPart2": "Wazzup Fucking Ass Bitch"
+        "declaringWar": "Your gonna fucking die Bitch"
+        "attacked": "Ayo What the Fuck?!"
+        "defeated": " Aw Fuck"
+        "introduction": "Lets Do this"
+        "neutralHello": "Hi"
+        "neutralLetshearIt": "Yes lets hear it"
+        "neutralNo": "um No"
+        "neutralYes": "Sure lets do it"
+        "hateHello": "The fuck you want Bitch"
+        "hateLetshearIt": "Talk"
+        "hateNo": "Fuck No"
+        "hateYes": "Fine"
+        "tradeRequest": "Lets make a deal shall we?"
+        "outerColor": ["69, 69, 69"]
+        "innerColor": ["255, 255, 255"]
+        "uniqueName": "Ransu"
+        "uniques": ["[+1 Production, +1 Faith] from every [Farm]"]
+            "cities": ["Negros1", "Negros2", "Negros3", "Negros4", "Negros5", "Negros6", "Negros7", "Negros8", "Negros9", "Negros10", "Negros11", "Negros12", "Negros13", "Negros14", "Negros15"]
+    }
+    ]
